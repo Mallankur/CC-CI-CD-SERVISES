@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCPRDUCTAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad4a3ec935582db3aab87358ba06b14867d6889")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCPRDUCTAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCPRDUCTAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
