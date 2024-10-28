@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CICDGIT\\src\\PRODUCTAPI\\CCPRDUCTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08FB06E1-69B3-479F-88CA-31CBFDB23028}|..\\ProductDataServises\\ProductDataServises.csproj|e:\\cicdgit\\src\\productapi\\productdataservises\\client\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FB06E1-69B3-479F-88CA-31CBFDB23028}|..\\ProductDataServises\\ProductDataServises.csproj|e:\\cicdgit\\src\\productapi\\productdataservises\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FB06E1-69B3-479F-88CA-31CBFDB23028}|..\\ProductDataServises\\ProductDataServises.csproj|e:\\cicdgit\\src\\productapi\\productdataservises\\productdataservises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\Client\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\ProductDataServises\\Client\\ProductDto.cs",
+              "ToolTip": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\Client\\ProductDto.cs",
+              "RelativeToolTip": "..\\ProductDataServises\\Client\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:42:53.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ProductDataServises\\Model\\Product.cs",
+              "ToolTip": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\Model\\Product.cs",
+              "RelativeToolTip": "..\\ProductDataServises\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:39:38.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDataServises",
+              "DocumentMoniker": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\ProductDataServises.csproj",
+              "RelativeDocumentMoniker": "..\\ProductDataServises\\ProductDataServises.csproj",
+              "ToolTip": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\ProductDataServises.csproj",
+              "RelativeToolTip": "..\\ProductDataServises\\ProductDataServises.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:38:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

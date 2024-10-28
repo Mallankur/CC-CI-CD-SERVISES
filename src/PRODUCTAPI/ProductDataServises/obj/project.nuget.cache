@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J08TTWBbiQK72HBErSvB/rOLEPxAbi6W6I3wNKYBs0mzU871aGVGrYE+H2bl5pVE7HP/iRcdUxvXX2sF71I01w==",
+  "success": true,
+  "projectFilePath": "E:\\CICDGIT\\src\\PRODUCTAPI\\ProductDataServises\\ProductDataServises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankur\\.nuget\\packages\\mongodb.bson\\3.0.0\\mongodb.bson.3.0.0.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ankur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

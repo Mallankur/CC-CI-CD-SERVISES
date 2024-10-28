@@ -1,0 +1,6 @@
+@CCPRDUCTAPI_HostAddress = http://localhost:5104
+
+GET {{CCPRDUCTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
